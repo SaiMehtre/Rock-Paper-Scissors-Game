@@ -13,7 +13,7 @@ the fundamentals of DOM manipulation, event handling, and simple game logic — 
 - Randomized computer choice
 - Score tracking for player and computer
 - Responsive and minimal UI
-- Instant result feedback (Win, Lose, or Draw)
+- Instant result feedback (I win(Computer wins), You win, or Tie)
 
 ## Technologies Used
 
